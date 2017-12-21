@@ -18,3 +18,9 @@ Start PowerShell as admin:
     
 ## Update all packages
     choco upgrade all -y
+    choco upgrade all --except="'kindle'"
+
+Es sollte auch mit pin gehen, kriege ich aber nicht:
+https://superuser.com/questions/972178/how-to-update-all-chocolatey-packages-except-one
+
+
