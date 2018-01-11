@@ -12,6 +12,7 @@ Start PowerShell as admin:
 ## Install individual packages
     choco install notepadplusplus.install
     choco install chocolateygui
+    choco install kindle --version 1.17
     
 ## Install the Packages.config
     cinst Win102017-Choco.config
