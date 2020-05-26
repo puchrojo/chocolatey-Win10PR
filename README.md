@@ -62,3 +62,9 @@ systemctl enable docker && systemctl start docker
 
 Test Formatirung
 
+
+Alternatives
+* Scoop - Für Programmieren / OSS / Non Admin - https://scoop.sh/   
+* Winget https://github.com/microsoft/winget-cli
+  Winget-GUI, non offiziell		https://winstall.app/
+  
